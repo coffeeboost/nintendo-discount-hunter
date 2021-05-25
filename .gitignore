@@ -1,6 +1,6 @@
 .DS_store
 .ipynb_checkpoints
-output/results.csv
+output/saved_data.csv
 process_data.html
 !data.txt
 !my_script.sh
