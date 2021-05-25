@@ -1,0 +1,8 @@
+.DS_store
+.ipynb_checkpoints
+output/results.csv
+process_data.html
+!data.txt
+!my_script.sh
+!/output
+!process_data.ipynb
