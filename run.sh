@@ -1,4 +1,7 @@
 #!/bin/sh
+
+python3 automate.py
+
 if [[ -f process_data.ipynb ]]
 then
  jupyter nbconvert --execute process_data.ipynb
