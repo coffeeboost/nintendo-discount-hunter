@@ -2,7 +2,10 @@
 .ipynb_checkpoints
 output/saved_data.csv
 process_data.html
-!data.txt
+data.txt
+__pycache__
+allLogs.log
+!automate.py
 !my_script.sh
 !/output
 !process_data.ipynb
